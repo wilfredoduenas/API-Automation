@@ -1,0 +1,10 @@
+pytest~=8.3.4
+requests~=2.32.3
+pytest-html
+pandas~=2.2.3
+deepdiff~=8.1.1
+matplotlib~=3.10.0
+Pygments~=2.19.1
+PyAutoGUI~=0.9.54
+pillow~=11.1.0
+Pygments~=2.19.1

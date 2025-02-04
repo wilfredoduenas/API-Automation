@@ -1,0 +1,18 @@
+{
+    "body_diff": {
+        "values_changed": {
+            "root['errors']['timestamp']": {
+                "new_value": "2025-02-04T09:13:27.452391700",
+                "old_value": "2025-01-26T11:36:42.894516500"
+            }
+        }
+    },
+    "header_diff": {
+        "values_changed": {
+            "root['Date']": {
+                "new_value": "Tue, 04 Feb 2025 14:13:27 GMT",
+                "old_value": "Tue, 04 Feb 2025 13:28:09 GMT"
+            }
+        }
+    }
+}

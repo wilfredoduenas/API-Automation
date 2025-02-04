@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-01-26T16:24:05.2816442",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "The name field contains invalid characters.",
+        "typeCode": "TYP-002",
+        "type": "validation_error",
+        "subtypeCode": "VAL-004",
+        "subtype": "invalid_character",
+        "details": {
+            "problematicField": "name",
+            "invalidValue": "Tes*",
+            "correctFormat": "The name can only contain alphanumeric characters and spaces."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-VAL-004",
+        "_links": {
+            "self": {
+                "method": "POST",
+                "href": "/projects"
+            },
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-004"
+            }
+        }
+    }
+}

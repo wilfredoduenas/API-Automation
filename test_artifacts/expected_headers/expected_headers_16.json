@@ -1,0 +1,17 @@
+{
+    "Access-Control-Allow-Origin": "*",
+    "Access-Control-Allow-Methods": "DELETE, GET, OPTIONS, PATCH, POST, PUT",
+    "Access-Control-Max-Age": "3600",
+    "Access-Control-Allow-Headers": "x-requested-with, authorization, Content-Type, Authorization, credential, X-XSRF-TOKEN",
+    "x-correlation-id": "fa0b6d39-97a4-44e4-b3e6-91f5b3c1e9ea",
+    "x-request-id": "204acb53-4e79-49ba-921e-1dcb2fbda47e",
+    "x-transaction-id": "9fdc6c9b-1db5-4cf9-b196-23a34b785509",
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "x-content-type-options": "nos niff",
+    "x-frame-options": "DENY",
+    "x-xss-protection": "1; mode=block",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Date": "Tue, 04 Feb 2025 13:28:10 GMT",
+    "Connection": "close"
+}

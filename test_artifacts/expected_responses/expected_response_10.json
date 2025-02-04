@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-01-26T11:51:47.235436100",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "Invalid x-request-id header; does not comply with the UUID format",
+        "typeCode": "TYP-001",
+        "type": "header_error",
+        "subtypeCode": "HDR-005",
+        "subtype": "invalid_header_format",
+        "details": {
+            "problematicField": "x-request-id",
+            "invalidValue": "z04acb53-4e79-49ba-921e-1dcb2fbda47e",
+            "correctFormat": "The value should be a valid UUID with exactly 36 characters."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-HDR-005",
+        "_links": {
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            },
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-HDR-005"
+            }
+        }
+    }
+}

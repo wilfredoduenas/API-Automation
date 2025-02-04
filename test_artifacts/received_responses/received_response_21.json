@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-02-04T09:13:27.6905379",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "The name field cannot contain consecutive spaces.",
+        "typeCode": "TYP-002",
+        "type": "validation_error",
+        "subtypeCode": "VAL-006",
+        "subtype": "consecutive_blanks",
+        "details": {
+            "problematicField": "name",
+            "invalidValue": "Test  Field 6",
+            "correctFormat": "The name field cannot contain two or more consecutive spaces."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-VAL-006",
+        "_links": {
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-006"
+            },
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            }
+        }
+    }
+}

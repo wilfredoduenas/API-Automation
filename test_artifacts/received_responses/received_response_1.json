@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-02-04T09:13:27.337568",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "Missing x-correlation-id header",
+        "typeCode": "TYP-001",
+        "type": "header_error",
+        "subtypeCode": "HDR-001",
+        "subtype": "missing_header",
+        "details": {
+            "problematicField": "x-correlation-id",
+            "invalidValue": "Header value is missing or null",
+            "correctFormat": "The value should be a valid UUID with exactly 36 characters."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-HDR-001",
+        "_links": {
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            },
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-HDR-001"
+            }
+        }
+    }
+}

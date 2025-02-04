@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-01-26T15:58:26.7684989",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "The name field must be at least 3 characters long.",
+        "typeCode": "TYP-002",
+        "type": "validation_error",
+        "subtypeCode": "VAL-002",
+        "subtype": "field_length_too_short",
+        "details": {
+            "problematicField": "name",
+            "invalidValue": "Te",
+            "correctFormat": "The name must be at least 3 characters long."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-VAL-002",
+        "_links": {
+            "self": {
+                "method": "POST",
+                "href": "/projects"
+            },
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-002"
+            }
+        }
+    }
+}

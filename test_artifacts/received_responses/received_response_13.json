@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-02-04T09:13:27.578435",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "x-transaction-id header is too long",
+        "typeCode": "TYP-001",
+        "type": "header_error",
+        "subtypeCode": "HDR-003",
+        "subtype": "header_length_too_long",
+        "details": {
+            "problematicField": "x-transaction-id",
+            "invalidValue": "c9fdc6c9b-1db5-4cf9-b196-23a34b785509",
+            "correctFormat": "The value should be a valid UUID with exactly 36 characters."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-HDR-003",
+        "_links": {
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            },
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-HDR-003"
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-02-04T09:13:27.6187498",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "The name field is required.",
+        "typeCode": "TYP-002",
+        "type": "validation_error",
+        "subtypeCode": "VAL-001",
+        "subtype": "field_validation_failed",
+        "details": {
+            "problematicField": "name",
+            "invalidValue": "null",
+            "correctFormat": "The name field cannot be null."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-VAL-001",
+        "_links": {
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-001"
+            },
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            }
+        }
+    }
+}

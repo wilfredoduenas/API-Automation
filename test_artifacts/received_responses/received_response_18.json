@@ -1,0 +1,28 @@
+{
+    "errors": {
+        "timestamp": "2025-02-04T09:13:27.6470991",
+        "status": 400,
+        "error": "Bad Request",
+        "message": "The name field must be no longer than 70 characters.",
+        "typeCode": "TYP-002",
+        "type": "validation_error",
+        "subtypeCode": "VAL-003",
+        "subtype": "field_length_too_long",
+        "details": {
+            "problematicField": "name",
+            "invalidValue": "Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3 Test Field 3",
+            "correctFormat": "The name must be no longer than 70 characters."
+        },
+        "path": "/projects",
+        "documentationUrl": "https://yourapi.com/docs/errors#API-FUNC-VAL-003",
+        "_links": {
+            "documentation": {
+                "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-003"
+            },
+            "self": {
+                "href": "/projects",
+                "method": "POST"
+            }
+        }
+    }
+}
