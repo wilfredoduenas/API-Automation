@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T09:13:27.6470991",
+        "timestamp": "2025-02-04T10:58:54.6349177",
         "status": 400,
         "error": "Bad Request",
         "message": "The name field must be no longer than 70 characters.",
@@ -20,8 +20,8 @@
                 "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-003"
             },
             "self": {
-                "href": "/projects",
-                "method": "POST"
+                "method": "POST",
+                "href": "/projects"
             }
         }
     }

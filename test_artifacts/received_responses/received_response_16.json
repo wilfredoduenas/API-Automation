@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T09:13:27.6187498",
+        "timestamp": "2025-02-04T10:58:54.6022133",
         "status": 400,
         "error": "Bad Request",
         "message": "The name field is required.",
@@ -20,8 +20,8 @@
                 "href": "https://yourapi.com/docs/errors#API-FUNC-VAL-001"
             },
             "self": {
-                "href": "/projects",
-                "method": "POST"
+                "method": "POST",
+                "href": "/projects"
             }
         }
     }

@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T09:13:27.555828600",
+        "timestamp": "2025-02-04T10:58:54.533513500",
         "status": 400,
         "error": "Bad Request",
         "message": "Missing x-transaction-id header",

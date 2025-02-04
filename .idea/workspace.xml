@@ -4,7 +4,158 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96313b22-73e9-4f34-bf1b-1ef659ef2903" name="Changes" comment="" />
+    <list default="true" id="96313b22-73e9-4f34-bf1b-1ef659ef2903" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/reports_2025-02-04_09-13-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_headers/expected_headers_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/expected_responses/expected_response_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/received_responses/received_response_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_body/request_body_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/request_headers/request_headers_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_11.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_project.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +209,7 @@
       <recent name="C:\Users\reyss\OneDrive\Escritorio\Reysser\Project\pythonProjectTest\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test_project.py">
+  <component name="RunManager" selected="Python.generate_images">
     <configuration name="ScreenshotCapturer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectTest" />
       <option name="ENV_FILES" value="" />
@@ -155,9 +306,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in test_project.py" />
-        <item itemvalue="Python tests.Python tests for test_project.test_post_projects" />
         <item itemvalue="Python.generate_images" />
+        <item itemvalue="Python tests.Python tests for test_project.test_post_projects" />
+        <item itemvalue="Python tests.Python tests in test_project.py" />
         <item itemvalue="Python.ScreenshotCapturer" />
         <item itemvalue="Python tests.Python tests for test_project.test_get_projects" />
       </list>
@@ -199,7 +350,7 @@
       <workItem from="1738534283899" duration="9151000" />
       <workItem from="1738622851787" duration="542000" />
       <workItem from="1738674509838" duration="3908000" />
-      <workItem from="1738679986834" duration="308000" />
+      <workItem from="1738679986834" duration="3247000" />
     </task>
     <servers />
   </component>
@@ -208,7 +359,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProjectTest$ScreenshotCapturer.coverage" NAME="ScreenshotCapturer Coverage Results" MODIFIED="1738007560109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/pythonProjectTest$.coverage" NAME=" Coverage Results" MODIFIED="1738678406006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/pythonProjectTest$generate_images.coverage" NAME="generate_images Coverage Results" MODIFIED="1738599832128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProjectTest$.coverage" NAME=" Coverage Results" MODIFIED="1738684732801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythonProjectTest$generate_images.coverage" NAME="generate_images Coverage Results" MODIFIED="1738684815493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

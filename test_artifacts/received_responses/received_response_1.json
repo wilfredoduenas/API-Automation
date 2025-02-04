@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T09:13:27.337568",
+        "timestamp": "2025-02-04T10:58:54.316619200",
         "status": 400,
         "error": "Bad Request",
         "message": "Missing x-correlation-id header",

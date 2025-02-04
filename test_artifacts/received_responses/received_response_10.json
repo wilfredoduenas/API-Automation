@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T09:13:27.543724500",
+        "timestamp": "2025-02-04T10:58:54.521244600",
         "status": 400,
         "error": "Bad Request",
         "message": "Invalid x-request-id header; does not comply with the UUID format",
