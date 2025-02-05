@@ -5,8 +5,157 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96313b22-73e9-4f34-bf1b-1ef659ef2903" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/utils/file_utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/reports_2025-02-04_09-13-26.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/diff_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/expected_headers_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/expected_response_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/received_response_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/request_body_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/request_headers_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test1/response_headers_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/diff_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/expected_headers_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/expected_response_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/received_response_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/request_body_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/request_headers_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test10/response_headers_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/diff_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/expected_headers_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/expected_response_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/received_response_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/request_body_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/request_headers_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test11/response_headers_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/diff_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/expected_headers_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/expected_response_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/received_response_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/request_body_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/request_headers_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test12/response_headers_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/diff_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/expected_headers_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/expected_response_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/received_response_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/request_body_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/request_headers_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test13/response_headers_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/diff_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/expected_headers_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/expected_response_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/received_response_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/request_body_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/request_headers_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test14/response_headers_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/diff_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/expected_headers_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/expected_response_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/received_response_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/request_body_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/request_headers_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test15/response_headers_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/diff_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/expected_headers_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/expected_response_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/received_response_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/request_body_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/request_headers_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test16/response_headers_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/diff_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/expected_headers_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/expected_response_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/received_response_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/request_body_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/request_headers_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test17/response_headers_17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/diff_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/expected_headers_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/expected_response_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/received_response_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/request_body_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/request_headers_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test18/response_headers_18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/diff_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/expected_headers_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/expected_response_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/received_response_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/request_body_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/request_headers_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test19/response_headers_19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/diff_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/expected_headers_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/expected_response_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/received_response_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/request_body_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/request_headers_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test2/response_headers_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/diff_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/expected_headers_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/expected_response_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/received_response_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/request_body_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/request_headers_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test20/response_headers_20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/diff_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/expected_headers_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/expected_response_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/received_response_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/request_body_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/request_headers_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test21/response_headers_21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/diff_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/expected_headers_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/expected_response_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/received_response_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/request_body_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/request_headers_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test3/response_headers_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/diff_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/expected_headers_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/expected_response_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/received_response_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/request_body_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/request_headers_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test4/response_headers_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/diff_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/expected_headers_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/expected_response_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/received_response_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/request_body_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/request_headers_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test5/response_headers_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/diff_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/expected_headers_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/expected_response_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/received_response_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/request_body_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/request_headers_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test6/response_headers_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/diff_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/expected_headers_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/expected_response_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/received_response_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/request_body_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/request_headers_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test7/response_headers_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/diff_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/expected_headers_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/expected_response_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/received_response_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/request_body_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/request_headers_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test8/response_headers_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/diff_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/expected_headers_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/expected_response_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/received_response_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/request_body_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/request_headers_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Test9/response_headers_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/reports_2025-02-04_10-58-53.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_1.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_10.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_artifacts/diffs/diff_11.json" beforeDir="false" />
@@ -154,6 +303,7 @@
       <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_7.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_8.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_artifacts/response_headers/response_headers_9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_project.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,25 +330,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_project.test_get_projects.executor": "Run",
-    "Python tests.Python tests for test_project.test_post_projects.executor": "Run",
-    "Python tests.Python tests in test_project.py.executor": "Run",
-    "Python.ScreenshotCapturer.executor": "Run",
-    "Python.generate_images.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/reyss/OneDrive/Escritorio/Reysser/Project/pythonProjectTest",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_project.test_get_projects.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_project.test_post_projects.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_project.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ScreenshotCapturer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.capture_tests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generate_images.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/reyss/OneDrive/Escritorio/Reysser/Project/pythonProjectTest&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\reyss\OneDrive\Escritorio\Reysser\Project\pythonProjectTest" />
@@ -233,6 +384,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="capture_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProjectTest" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/capture_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="generate_images" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProjectTest" />
       <option name="ENV_FILES" value="" />
@@ -254,22 +428,6 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_project.test_get_projects" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonProjectTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_project.test_get_projects&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests for test_project.test_post_projects" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -307,10 +465,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.generate_images" />
-        <item itemvalue="Python tests.Python tests for test_project.test_post_projects" />
         <item itemvalue="Python tests.Python tests in test_project.py" />
+        <item itemvalue="Python tests.Python tests for test_project.test_post_projects" />
+        <item itemvalue="Python.capture_tests" />
         <item itemvalue="Python.ScreenshotCapturer" />
-        <item itemvalue="Python tests.Python tests for test_project.test_get_projects" />
       </list>
     </recent_temporary>
   </component>
@@ -350,7 +508,9 @@
       <workItem from="1738534283899" duration="9151000" />
       <workItem from="1738622851787" duration="542000" />
       <workItem from="1738674509838" duration="3908000" />
-      <workItem from="1738679986834" duration="3247000" />
+      <workItem from="1738679986834" duration="8376000" />
+      <workItem from="1738725609868" duration="1357000" />
+      <workItem from="1738765342341" duration="2540000" />
     </task>
     <servers />
   </component>
@@ -359,7 +519,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProjectTest$ScreenshotCapturer.coverage" NAME="ScreenshotCapturer Coverage Results" MODIFIED="1738007560109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
-    <SUITE FILE_PATH="coverage/pythonProjectTest$.coverage" NAME=" Coverage Results" MODIFIED="1738684732801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/pythonProjectTest$generate_images.coverage" NAME="generate_images Coverage Results" MODIFIED="1738684815493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProjectTest$.coverage" NAME=" Coverage Results" MODIFIED="1738767607088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
+    <SUITE FILE_PATH="coverage/pythonProjectTest$generate_images.coverage" NAME="generate_images Coverage Results" MODIFIED="1738767815049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProjectTest$capture_tests.coverage" NAME="capture_tests Coverage Results" MODIFIED="1738687119354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

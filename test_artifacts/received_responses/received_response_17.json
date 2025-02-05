@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T10:58:54.6182936",
+        "timestamp": "2025-02-05T10:00:09.8978641",
         "status": 400,
         "error": "Bad Request",
         "message": "The name field must be at least 3 characters long.",

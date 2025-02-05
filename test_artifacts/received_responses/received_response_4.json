@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T10:58:54.422870",
+        "timestamp": "2025-02-05T10:00:09.479154600",
         "status": 400,
         "error": "Bad Request",
         "message": "x-correlation-id header contains special characters",

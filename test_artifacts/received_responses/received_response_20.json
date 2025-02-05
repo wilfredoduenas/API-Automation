@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T10:58:54.6688052",
+        "timestamp": "2025-02-05T10:00:09.9479823",
         "status": 400,
         "error": "Bad Request",
         "message": "The name field cannot be blank.",

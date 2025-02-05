@@ -1,6 +1,6 @@
 {
     "errors": {
-        "timestamp": "2025-02-04T10:58:54.574089600",
+        "timestamp": "2025-02-05T10:00:09.627573300",
         "status": 400,
         "error": "Bad Request",
         "message": "x-transaction-id header contains special characters",

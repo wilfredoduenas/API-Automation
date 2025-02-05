@@ -40,7 +40,6 @@ def load_data_excel():
             "Response Status Code": row["Response Status Code"],
             "Response JSON": row["Response JSON"],
             "Response Headers": json.loads(row["Response Headers"])
-
         }
         data.append((row["Test"], record))
     return data
